@@ -1,6 +1,6 @@
 {
     "atomType": "Molecule",
-    "name": "Screws",
+    "name": "Screws_closet_Rack",
     "x": 0.3051608077786088,
     "y": 0.6426332288401254,
     "uniqueID": 1719934022249,
@@ -371,7 +371,6 @@
             "ap2ID": 1719934189648
         }
     ],
-    "unitsIndex": 0,
     "fileTypeVersion": 1,
     "compiledBom": [],
     "filetypeVersion": 1
